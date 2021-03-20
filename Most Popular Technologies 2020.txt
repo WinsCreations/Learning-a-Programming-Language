@@ -1,5 +1,7 @@
 Source : https://insights.stackoverflow.com/survey/2020#most-popular-technologies
 
+Programming, Scripting, and Markup Languages
+
 All Respondents
 
 JavaScript : 67.7%
