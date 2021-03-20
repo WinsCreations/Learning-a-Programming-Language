@@ -27,3 +27,32 @@ Scala :3.6%
 Perl : 3.1%
 Haskell : 2.1%
 Julia : 0.9%
+
+
+Professional Developers
+
+JavaScript : 69.7%
+HTML/CSS : 62.4%
+SQL : 56.9%
+Python : 41.6%
+Java : 38.4%
+Bash/Shell/PowerShell : 34.8%
+C# : 32.3%
+TypeScript : 28.3%
+PHP : 25.8%
+C++ : 20.5%
+C : 18.2%
+Go : 9.4%
+Kotlin : 8.0%
+Ruby : 7.5%
+VBA : 6.2%
+Swift : 6.1%
+R : 5.5%
+Assembly : 4.9%
+Rust : 4.8%
+Objective-C : 4.4%
+Scala : 3.9%
+Dart : 3.7%
+Perl : 3.3%
+Haskell : 1.8%
+Julia : 0.9%
